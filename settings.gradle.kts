@@ -8,3 +8,4 @@
  */
 
 rootProject.name = "gradle-kotlin-script"
+println("This is executed during the initialization phase")
